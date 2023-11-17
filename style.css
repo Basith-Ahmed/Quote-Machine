@@ -12,7 +12,7 @@ p {
 #mainContainer {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.045);
-    max-width: 75%;
+    width: 75vh;
     padding: 25px;
     border-radius: 15px;
     /* box-shadow: 0 0 15px #0000001d; */
